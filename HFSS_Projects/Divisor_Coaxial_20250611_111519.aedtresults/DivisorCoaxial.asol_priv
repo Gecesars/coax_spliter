@@ -1,0 +1,205 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002025, month=000000000006, day=000000000011, hour=000000000011, min=000000000015, sec=000000000035)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000000000, lin=000000000001, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock5'
+	SimSetupID=29
+	SimSetupName='Setup1'
+	VersionID=0
+	$begin 'EmConvergenceData'
+		Vmap(0, 55)
+		EmConv(VID=32, Ver=0, EmConv='DV32_S29_V55.EMConvData')
+	$end 'EmConvergenceData'
+	IsImported=false
+	IsTable=false
+	SolveSetupID=0
+	$begin 'CurrMeshes'
+		Vmap(0, 46)
+		M(VID=32, Ver=0, Dir='DV32_S29_V46.cmesh/')
+	$end 'CurrMeshes'
+	MeshAssemVersionID=0
+	$begin 'NextAssemVersionID'
+		NextUniqueID=1
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'ADP'
+		$begin 'SubData'
+			ID=2
+			Vmap(0, 103)
+			ADP(VID=32, Ver=0, Dir='DV32_S29_ADP2_V103.sd/')
+		$end 'SubData'
+	$end 'ADP'
+	$begin 'SU'
+		$begin 'SubData'
+			ID=1
+			Vmap(0, 101)
+			SU(VID=32, Ver=0, File='DV32_S29_SD1_V101.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			Vmap(0, 104)
+			SU(VID=32, Ver=0, File='DV32_S29_SD2_V104.su')
+		$end 'SubData'
+	$end 'SU'
+	$begin 'WaveAdapt'
+		WA(VID=32, Ver=0, A=1)
+	$end 'WaveAdapt'
+	$begin 'LastPassNumbers'
+		LP(VID=32, Ver=0, P=2)
+	$end 'LastPassNumbers'
+	$begin 'Profiles'
+		Vmap(0, 54)
+		P(VID=32, Ver=0, File='DV32_S29_V54.profile')
+	$end 'Profiles'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			Vmap(0, 95)
+			MI(VID=32, Ver=0, Dir='DV32_S29_MI0_V95.sd/')
+		$end 'SubData'
+	$end 'MI'
+$end 'SolutionBlock5'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=29, Instance=\'SetupDefinition\', Solution=-1, VersionID=0)'='SolutionBlock5'
+	'SolutionKey(SimSetup=29, Instance=\'SolutionDefinition\', Solution=30, VersionID=0)'='SolutionBlock2'
+	'SolutionKey(SimSetup=29, Instance=\'SolutionDefinition\', Solution=31, VersionID=35)'='SolutionBlock3'
+	'SolutionKey(SimSetup=29, Instance=\'SolutionDefinition\', Solution=37, VersionID=39)'='SolutionBlock4'
+$end 'BlockMapName'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='DivisorCoaxial'
+	VersionID=22
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=112
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='comp_saida=\'29.970256071435642mm\' comp_secoes=\'299.70256071435642mm\' comp_total=\'314.68768875007424mm\' dia_int_tubo=\'17mm\' dia_saida_cond=\'7.3813950185623591mm\' dia_saida_diel=\'17mm\' dia_sc1=\'8.4291414652101366mm\' dia_sc2=\'10.351846526207973mm\' dia_sc3=\'11.970605870571978mm\' dia_sc4=\'13.265797787752364mm\'', ID=32)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	$begin 'InitialMeshes'
+		Vmap(22, 41)
+		M(VID=32, Ver=22, Dir='DV32_V41.imesh/')
+	$end 'InitialMeshes'
+	MeshAssemVersionID=22
+	$begin 'NextAssemVersionID'
+		NextUniqueID=23
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'DefinitionMeshes'
+		$begin 'DefMeshes_Comp-1'
+			DefinitionID=-1
+			VersionID=21
+			VIDMap('comp_saida=\'29.970256071435642mm\' comp_secoes=\'299.70256071435642mm\' comp_total=\'314.68768875007424mm\' dia_int_tubo=\'17mm\' dia_saida_cond=\'7.3813950185623591mm\' dia_saida_diel=\'17mm\' dia_sc1=\'8.4291414652101366mm\' dia_sc2=\'10.351846526207973mm\' dia_sc3=\'11.970605870571978mm\' dia_sc4=\'13.265797787752364mm\'', 92)
+			DM(VID=92, Ver=21, Dir='NDV92_V21.dmesh/')
+		$end 'DefMeshes_Comp-1'
+	$end 'DefinitionMeshes'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			Vmap(22, 94)
+			MI(VID=32, Ver=22, Dir='DV32_MI0_V94.sd/')
+		$end 'SubData'
+	$end 'MI'
+	VersionID2=23
+$end 'SolutionBlock1'
+$begin 'SolutionBlock3'
+	SolutionName='LastAdaptive'
+	SolutionID=31
+	V=35
+	$begin 'States'
+		F(VID=32, Ver=35)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(1000000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			Vmap(35, 99)
+			M(VID=32, Ver=35, File='DV32_SOL31_M0_V99.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'Fields'
+		Vmap(35, 71)
+		IDDblMap(97, 1000000000)
+		$begin 'DataMap'
+			VID=32
+			Ver=35
+			F(DblID=97, Dir='DV32_S31_V71_F97/')
+		$end 'DataMap'
+	$end 'Fields'
+$end 'SolutionBlock3'
+$begin 'SolutionBlock2'
+	SolutionName='AdaptivePass'
+	SolutionID=30
+	V=0
+	$begin 'States'
+		F(VID=32, Ver=0)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(1000000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=1
+			Vmap(0, 98)
+			M(VID=32, Ver=0, File='DV32_SOL30_M1_V98.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			Vmap(0, 102)
+			M(VID=32, Ver=0, File='DV32_SOL30_M2_V102.sd')
+		$end 'SubData'
+	$end 'M'
+$end 'SolutionBlock2'
+$begin 'SolutionBlock4'
+	SolutionName='Sweep1'
+	SolutionID=37
+	V=39
+	$begin 'States'
+		F(VID=32, Ver=39)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(800000000, 802000000, 804000000, 806000000, 808000000, 810000000, 812000000, 814000000, 816000000, 818000000, 820000000, 822000000, 824000000, 826000000, 828000000, 830000000, 832000000, 834000000, 836000000, 838000000, 840000000, 842000000, 844000000, 846000000, 848000000, 850000000, 852000000, 854000000, 856000000, 858000000, 860000000, 862000000, 864000000, 866000000, 868000000, 870000000, 872000000, 874000000, 876000000, 878000000, 880000000, 882000000, 884000000, 886000000, 888000000, 890000000, 892000000, 894000000, 896000000, 898000000, 900000000, 902000000, 904000000, 906000000, 908000000, 910000000, 912000000, 914000000, 916000000, 918000000, 920000000, 922000000, 924000000, 926000000, 928000000, 930000000, 932000000, 934000000, 936000000, 938000000, 940000000, 942000000, 944000000, 946000000, 948000000, 950000000, 952000000, 954000000, 956000000, 958000000, 960000000, 962000000, 964000000, 966000000, 968000000, 970000000, 972000000, 974000000, 976000000, 978000000, 980000000, 982000000, 984000000, 986000000, 988000000, 990000000, 992000000, 994000000, 996000000, 998000000, 1000000000, 1002000000, 1004000000, 1006000000, 1008000000, 1010000000, 1012000000, 1014000000, 1016000000, 1018000000, 1020000000, 1022000000, 1024000000, 1026000000, 1028000000, 1030000000, 1032000000, 1034000000, 1036000000, 1038000000, 1040000000, 1042000000, 1044000000, 1046000000, 1048000000, 1050000000, 1052000000, 1054000000, 1056000000, 1058000000, 1060000000, 1062000000, 1064000000, 1066000000, 1068000000, 1070000000, 1072000000, 1074000000, 1076000000, 1078000000, 1080000000, 1082000000, 1084000000, 1086000000, 1088000000, 1090000000, 1092000000, 1094000000, 1096000000, 1098000000, 1100000000, 1102000000, 1104000000, 1106000000, 1108000000, 1110000000, 1112000000, 1114000000, 1116000000, 1118000000, 1120000000, 1122000000, 1124000000, 1126000000, 1128000000, 1130000000, 1132000000, 1134000000, 1136000000, 1138000000, 1140000000, 1142000000, 1144000000, 1146000000, 1148000000, 1150000000, 1152000000, 1154000000, 1156000000, 1158000000, 1160000000, 1162000000, 1164000000, 1166000000, 1168000000, 1170000000, 1172000000, 1174000000, 1176000000, 1178000000, 1180000000, 1182000000, 1184000000, 1186000000, 1188000000, 1190000000, 1192000000, 1194000000, 1196000000, 1198000000, 1200000000)
+		SolutionType=4
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=0
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			Vmap(39, 105)
+			M(VID=32, Ver=39, File='DV32_SOL37_M0_V105.sd')
+		$end 'SubData'
+	$end 'M'
+$end 'SolutionBlock4'

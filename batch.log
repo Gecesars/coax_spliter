@@ -1,0 +1,1480 @@
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:29:23 AM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:36:14 AM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 61297. 
+        [info] Project Divisor_Coaxial_20250610_093613 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+-- Message Window --
+Stopping Batch Run: 9:36:45 AM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:57:47 AM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 64491. 
+        [info] Project Divisor_Coaxial_20250610_095746 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 535, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 360, in generate_hfss_model
+        [error]     mdl.subtract(diel.name, out_diel_cyl.name, keep_originals=False)
+        [error] AEDT API Error on subtract
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: dieletrico contains null body, no operation can be performed.  (09:58:03 am  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     blank_list = Dieletrico 
+        [error]     tool_list = Temp_Out_Diel_4 
+        [error] **************************************************************
+        [info] Union of 5 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+-- Message Window --
+Stopping Batch Run: 9:58:15 AM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:51:18 AM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 56563. 
+        [info] Project Divisor_Coaxial_20250610_105113 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 535, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 360, in generate_hfss_model
+        [error]     mdl.subtract(diel.name, out_diel_cyl.name, keep_originals=False)
+        [error] AEDT API Error on subtract
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: dieletrico contains null body, no operation can be performed.  (10:52:09 am  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     blank_list = Dieletrico 
+        [error]     tool_list = Temp_Out_Diel_4 
+        [error] **************************************************************
+        [info] Union of 5 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+-- Message Window --
+Stopping Batch Run: 10:52:21 AM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:39:26 AM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 64704. 
+        [info] Project Divisor_Coaxial_20250610_113924 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIV_GPT.py", line 513, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIV_GPT.py", line 342, in generate_hfss_model
+        [error]     mdl.subtract(diel.name, out_diel_cyl.name, keep_originals=False)
+        [error] AEDT API Error on subtract
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: dieletrico contains null body, no operation can be performed.  (11:39:41 am  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     blank_list = Dieletrico 
+        [error]     tool_list = Temp_Out_Diel_4 
+        [error] **************************************************************
+        [info] Union of 5 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIV_GPT.py", line 513, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIV_GPT.py", line 353, in generate_hfss_model
+        [error]     hfss.materials.add_material(mat_name, permittivity=er_val, dielectric_loss_tangent=tand)
+        [error] Add_material() got an unexpected keyword argument 'permittivity' on add_material
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: dieletrico contains null body, no operation can be performed.  (11:39:41 am  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     name = Ar 
+        [error]     permittivity = 1.0006 
+        [error] **************************************************************
+        [warning] Material Ar does not exist.
+-- Message Window --
+Stopping Batch Run: 11:39:48 AM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:45:06 AM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 49212. 
+        [info] Project Divisor_Coaxial_20250610_114504 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 510, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 334, in generate_hfss_model
+        [error]     mdl.subtract(blank_list=[diel.name], tool_list=[out_diel_cyl.name], keep_originals=False)
+        [error] AEDT API Error on subtract
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: dieletrico contains null body, no operation can be performed.  (11:45:23 am  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     blank_list = ['Dieletrico'] 
+        [error]     tool_list = ['Temp_Out_Diel_4'] 
+        [error] **************************************************************
+        [info] Union of 5 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Adding new material to the Project Library: Ar
+        [info] Material has been added in Desktop.
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 510, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 350, in generate_hfss_model
+        [error]     mdl["Dieletrico"].material_name = mat_name
+        [error] AEDT API Error on _change_geometry_property
+        [error] Last Electronics Desktop Message - [error] script macro error: property 'material' does not exist. (11:45:24 am  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     vPropChange = ['NAME:Material', 'Value:=', '"Ar"'] 
+        [error]     names_list = Dieletrico 
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 11:45:31 AM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 1:12:49 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 51792. 
+        [info] Project Divisor_Coaxial_20250610_131245 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 510, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 334, in generate_hfss_model
+        [error]     mdl.subtract(blank_list=[diel.name], tool_list=[out_diel_cyl.name], keep_originals=False)
+        [error] AEDT API Error on subtract
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: dieletrico contains null body, no operation can be performed.  (01:13:20 pm  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     blank_list = ['Dieletrico'] 
+        [error]     tool_list = ['Temp_Out_Diel_4'] 
+        [error] **************************************************************
+        [info] Union of 5 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Adding new material to the Project Library: Ar
+        [info] Material has been added in Desktop.
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 510, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 350, in generate_hfss_model
+        [error]     mdl["Dieletrico"].material_name = mat_name
+        [error] AEDT API Error on _change_geometry_property
+        [error] Last Electronics Desktop Message - [error] script macro error: property 'material' does not exist. (01:13:21 pm  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     vPropChange = ['NAME:Material', 'Value:=', '"Ar"'] 
+        [error]     names_list = Dieletrico 
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 1:13:32 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 1:17:57 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 52574. 
+        [info] Project Divisor_Coaxial_20250610_131754 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 5 objects has been executed.
+        [info] Adding new material to the Project Library: Ar
+        [info] Material has been added in Desktop.
+-- Message Window --
+Stopping Batch Run: 1:18:19 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:01:29 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 60211. 
+        [info] Project Divisor_Coaxial_20250610_140127 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 5 objects has been executed.
+        [info] Adding new material to the Project Library: Ar
+        [info] Material has been added in Desktop.
+-- Message Window --
+Stopping Batch Run: 2:01:58 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:39:10 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:44:02 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 60654. 
+        [info] Project Divisor_Coaxial_20250610_154400 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 5 objects has been executed.
+        [info] Adding new material to the Project Library: Ar
+        [info] Material has been added in Desktop.
+-- Message Window --
+Stopping Batch Run: 3:44:28 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:56:36 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 62547. 
+        [info] Project Divisor_Traduzido_20250610_155634 has been created.
+        [info] Added design 'HFSS_Design' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+-- Message Window --
+Stopping Batch Run: 3:56:54 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:02:37 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 63495. 
+        [info] Project Divisor_Coaxial_20250610_160235 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 5 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 8 objects has been executed.
+        [info] Adding new material to the Project Library: Ar
+        [info] Material has been added in Desktop.
+-- Message Window --
+Stopping Batch Run: 4:03:00 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:06:52 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 64299. 
+        [info] Project Divisor_Coaxial_20250610_160650 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+-- Message Window --
+Stopping Batch Run: 4:07:16 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:45:54 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 54402. 
+        [info] Project Divisor_Coaxial_20250610_164553 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_164553.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_164553.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.018540143966674805
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+-- Message Window --
+Stopping Batch Run: 4:46:17 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:50:11 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 55159. 
+        [info] Project Divisor_Coaxial_20250610_165009 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_165009.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_165009.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.02971053123474121
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 556, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 346, in generate_hfss_model
+        [error]     hfss.wave_port(assignment=input_face_id, name="P1", renormalize=True, renorm_impedance="50ohm")
+        [error] Wave_port() got an unexpected keyword argument 'renorm_impedance' on wave_port
+        [error] Last Electronics Desktop Message - [error] wave_port() got an unexpected keyword argument 'renorm_impedance' on wave_port  
+        [error] Method arguments: 
+        [error]     assignment = 8 
+        [error]     name = P1 
+        [error]     renormalize = True 
+        [error]     renorm_impedance = 50ohm 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 556, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 358, in generate_hfss_model
+        [error]     hfss.wave_port(assignment=output_face_1_id, name="P2", renormalize=True, renorm_impedance="50ohm")
+        [error] Wave_port() got an unexpected keyword argument 'renorm_impedance' on wave_port
+        [error] Last Electronics Desktop Message - [error] wave_port() got an unexpected keyword argument 'renorm_impedance' on wave_port  
+        [error] Method arguments: 
+        [error]     assignment = 54 
+        [error]     name = P2 
+        [error]     renormalize = True 
+        [error]     renorm_impedance = 50ohm 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 556, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 364, in generate_hfss_model
+        [error]     mdl.duplicate_around_axis(
+        [error] Duplicate_around_axis() got an unexpected keyword argument 'objects_to_duplicate' on duplicate_around_axis
+        [error] Last Electronics Desktop Message - [error] duplicate_around_axis() got an unexpected keyword argument 'objects_to_duplicate' on duplicate_around_axis  
+        [error] Method arguments: 
+        [error]     axis = Z 
+        [error]     angle = 360deg/4 
+        [error]     clones = 4 
+        [error]     objects_to_duplicate = ['Output_Outer_1', 'Output_Inner_1'] 
+        [error]     duplicate_boundaries = True 
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 4:50:33 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:57:39 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 56422. 
+        [info] Project Divisor_Coaxial_20250610_165737 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_165737.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_165737.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.032152414321899414
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Boundary Wave Port P1 has been created.
+        [info] Boundary Wave Port P2 has been created.
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 550, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 358, in generate_hfss_model
+        [error]     mdl.duplicate_around_axis(
+        [error] Duplicate_around_axis() got an unexpected keyword argument 'duplicate_boundaries' on duplicate_around_axis
+        [error] Last Electronics Desktop Message - [error] while parsing expression: "50ohmohm", an error was found near character 0. 'ohmohm' is not a valid unit. (04:57:51 pm  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     assignment = ['Output_Outer_1', 'Output_Inner_1'] 
+        [error]     axis = Z 
+        [error]     angle = 360deg/4 
+        [error]     clones = 4 
+        [error]     duplicate_boundaries = True 
+        [error] **************************************************************
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 2 objects has been executed.
+-- Message Window --
+Stopping Batch Run: 4:58:01 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:59:07 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 56707. 
+        [info] Project Div_Coaxial_20250610_165905 has been created.
+        [info] Added design 'Div_Coaxial_20250610_165905' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+-- Message Window --
+Stopping Batch Run: 4:59:30 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:02:29 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 57499. 
+        [info] Project Div_Coaxial_20250610_170228 has been created.
+        [info] Added design 'Div_Coaxial_20250610_170228' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 562, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 364, in generate_hfss_model
+        [error]     mdl.subtract(blank_list=[diel_obj.name], tool_list=[od.name], keep_originals=False)
+        [error] AEDT API Error on subtract
+        [error] Last Electronics Desktop Message - [error] script macro error: selections: dieletrico contains null body, no operation can be performed.  (05:02:43 pm  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     blank_list = ['Dieletrico'] 
+        [error]     tool_list = ['OutD_4'] 
+        [error] **************************************************************
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 5 objects has been executed.
+        [info] Adding new material to the Project Library: Mat_Ar
+        [info] Material has been added in Desktop.
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 562, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 378, in generate_hfss_model
+        [error]     mdl[diel_obj.name].material_name = mat_die
+        [error] AEDT API Error on _change_geometry_property
+        [error] Last Electronics Desktop Message - [error] script macro error: property 'material' does not exist. (05:02:44 pm  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     vPropChange = ['NAME:Material', 'Value:=', '"Mat_Ar"'] 
+        [error]     names_list = Dieletrico 
+        [error] **************************************************************
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 562, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 405, in generate_hfss_model
+        [error]     setup.create_linear_step_sweep(
+        [error] Create_linear_step_sweep() got an unexpected keyword argument 'setupname' on create_linear_step_sweep
+        [error] Last Electronics Desktop Message - [error] script macro error: property 'material' does not exist. (05:02:44 pm  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     unit = GHz 
+        [error]     start_frequency = 0.75 
+        [error]     stop_frequency = 1.25 
+        [error]     step_size = 0.1 
+        [error]     name = Sweep1 
+        [error]     sweep_type = Interpolating 
+        [error]     setupname = Setup1 
+        [error] **************************************************************
+        [info] Project Div_Coaxial_20250610_170228 Saved correctly
+-- Message Window --
+Stopping Batch Run: 5:02:57 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:10:15 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 59800. 
+        [info] Project Divisor_Coaxial_20250610_171013 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Boundary Wave Port P1 has been created.
+        [info] Boundary Wave Port P2 has been created.
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 534, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 343, in generate_hfss_model
+        [error]     mdl.duplicate_around_axis(
+        [error] Duplicate_around_axis() got an unexpected keyword argument 'duplicate_boundaries' on duplicate_around_axis
+        [error] Last Electronics Desktop Message - [error] while parsing expression: "50ohmohm", an error was found near character 0. 'ohmohm' is not a valid unit. (05:10:27 pm  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     assignment = ['Diel_Saida_1', 'Cond_Saida_1'] 
+        [error]     axis = Z 
+        [error]     angle = 360deg/4 
+        [error]     clones = 4 
+        [error]     duplicate_boundaries = True 
+        [error] **************************************************************
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 2 objects has been executed.
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 534, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 359, in generate_hfss_model
+        [error]     final_cond_name = mdl.unite(inner_parts_to_unite)
+        [error] AEDT API Error on unite
+        [error] Last Electronics Desktop Message - [error] script macro error: uniteparameters: invalid tool part: tool part and blank part cannot be the same.  (05:10:28 pm  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     assignment = ['Cond_Sec1', 'Cond_Sec2', 'Cond_Sec3', 'Cond_Sec4', 'Cond_Sec1', 'Cond_Sec2', 'Cond_Sec3', 'Cond_Sec4', 'Cond_Saida_1'] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 534, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 360, in generate_hfss_model
+        [error]     mdl[final_cond_name].name = "Condutor_Unico"
+        [error] AEDT API Error on __getitem__
+        [error] Last Electronics Desktop Message - [error] script macro error: abnormal script termination. (05:10:29 pm  jun 10, 2025)  
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 5:10:37 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 5:35:49 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 63733. 
+        [info] Project Divisor_Coaxial_20250610_173547 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_173547.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_173547.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.02039051055908203
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 5 objects has been executed.
+-- Message Window --
+Stopping Batch Run: 5:36:11 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:04:11 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 52269. 
+        [info] Project Divisor_Coaxial_20250610_180409 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_180409.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_180409.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.02245473861694336
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Boundary Wave Port P1 has been created.
+        [info] Boundary Wave Port P2 has been created.
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 514, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 340, in generate_hfss_model
+        [error]     mdl.duplicate_around_axis(
+        [error] Duplicate_around_axis() got an unexpected keyword argument 'duplicate_boundaries' on duplicate_around_axis
+        [error] Last Electronics Desktop Message - [error] while parsing expression: "50ohmohm", an error was found near character 0. 'ohmohm' is not a valid unit. (06:04:24 pm  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     assignment = ['Output_Outer_1', 'Output_Inner_1'] 
+        [error]     axis = Z 
+        [error]     angle = 360deg/4 
+        [error]     clones = 4 
+        [error]     duplicate_boundaries = True 
+        [error] **************************************************************
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 2 objects has been executed.
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 514, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 356, in generate_hfss_model
+        [error]     united_cond_name = mdl.unite(inner_parts_to_unite)
+        [error] AEDT API Error on unite
+        [error] Last Electronics Desktop Message - [error] script macro error: uniteparameters: invalid tool part: tool part and blank part cannot be the same.  (06:04:25 pm  jun 10, 2025)  
+        [error] Method arguments: 
+        [error]     assignment = ['Cond_Sec1', 'Cond_Sec2', 'Cond_Sec3', 'Cond_Sec4', 'Cond_Sec1', 'Cond_Sec2', 'Cond_Sec3', 'Cond_Sec4'] 
+        [error] **************************************************************
+        [error] **************************************************************
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 908, in _bootstrap
+        [error]     self._bootstrap_inner()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 950, in _bootstrap_inner
+        [error]     self.run()
+        [error]   File "C:\Users\geral\AppData\Local\Programs\Python\Python39\lib\threading.py", line 888, in run
+        [error]     self._target(*self._args, **self._kwargs)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 514, in _export_hfss_thread
+        [error]     path = generate_hfss_model(self.calc.get_geometry_for_viewer(), self.queue)
+        [error]   File "C:\Users\geral\OneDrive\Documentos\MicroPython\DIVISOR\pythonProject3\DIP_GEMINI.py", line 357, in generate_hfss_model
+        [error]     final_cond_obj = mdl[united_cond_name]
+        [error] AEDT API Error on __getitem__
+        [error] Last Electronics Desktop Message - [error] script macro error: abnormal script termination. (06:04:26 pm  jun 10, 2025)  
+        [error] **************************************************************
+-- Message Window --
+Stopping Batch Run: 6:04:34 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:06:31 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 52674. 
+        [info] Project Divisor_Coaxial_20250610_180629 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_180629.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_180629.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.035936594009399414
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 5 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Adding new material to the Project Library: Ar
+        [info] Material has been added in Desktop.
+        [info] Boundary Wave Port P1 has been created.
+        [info] Boundary Wave Port P2 has been created.
+        [info] Boundary Wave Port P3 has been created.
+        [info] Boundary Wave Port P4 has been created.
+        [info] Boundary Wave Port P5 has been created.
+-- Message Window --
+Stopping Batch Run: 6:06:53 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:14:46 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:19:46 PM  Jun 10, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+The project 'Divisor_Coaxial_20250610_181944' has been edited and/or solved. Do you want to save the changes?
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 54801. 
+        [info] Project Divisor_Coaxial_20250610_181944 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_181944.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_181944.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.016707420349121094
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] PostProcessor class has been initialized! Elapsed time: 0m 0sec
+        [info] Post class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 5 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 4 objects has been executed.
+        [info] Adding new material to the Project Library: Ar
+        [info] Material has been added in Desktop.
+        [info] Boundary Wave Port P1 has been created.
+        [info] Boundary Wave Port P2 has been created.
+        [info] Boundary Wave Port P3 has been created.
+        [info] Boundary Wave Port P4 has been created.
+        [info] Boundary Wave Port P5 has been created.
+        [warning] Parameter 'start_frequency' is invalid and will be ignored.
+        [warning] Parameter 'stop_frequency' is invalid and will be ignored.
+        [warning] Parameter 'num_of_points' is invalid and will be ignored.
+        [info] Project Divisor_Coaxial_20250610_181944 Saved correctly
+        [info] The project 'Divisor_Coaxial_20250610_181944' has been edited and/or solved. Do you want to save the changes?
+      Divisor_Coaxial_20250610_181944 (C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/)
+        DivisorCoaxial (Modal Network)
+          [error] While parsing expression: "50ohmohm", an error was found near character 0. 'ohmohm' is not a valid unit. (06:20:10 PM  Jun 10, 2025)
+          [error] Parts Condutor_Unico and Output_Inner_1_3 intersect. (06:29:04 PM  Jun 10, 2025)
+          [error] Parts Condutor_Unico and Output_Inner_1_2 intersect. (06:29:04 PM  Jun 10, 2025)
+          [error] Parts Condutor_Unico and Output_Inner_1_1 intersect. (06:29:04 PM  Jun 10, 2025)
+          [error] Parts Condutor_Unico and Output_Inner_1 intersect. (06:29:04 PM  Jun 10, 2025)
+          [error] Parts Output_Inner_1_3 and Output_Inner_1_2 intersect. (06:29:04 PM  Jun 10, 2025)
+          [error] Parts Output_Inner_1_3 and Output_Inner_1 intersect. (06:29:04 PM  Jun 10, 2025)
+          [error] Parts Output_Inner_1_2 and Output_Inner_1_1 intersect. (06:29:04 PM  Jun 10, 2025)
+          [error] Parts Output_Inner_1_1 and Output_Inner_1 intersect. (06:29:04 PM  Jun 10, 2025)
+          [error] Simulation completed with execution error on server: Local Machine. (06:29:05 PM  Jun 10, 2025)
+-- Message Window --
+Stopping Batch Run: 8:38:30 AM  Jun 11, 2025
+eDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_185322.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250610_185322.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.036513566970825195
+        [info] Project Divisor_Coaxial_20250610_185322 Saved correctly
+        [info] The project 'Divisor_Coaxial_20250610_185322' has been edited and/or solved. Do you want to save the changes?
+      Divisor_Coaxial_20250610_185322 (C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/)
+        DivisorCoaxial (Modal Network)
+          [error] While parsing expression: "50ohmohm", an error was found near character 0. 'ohmohm' is not a valid unit. (06:53:36 PM  Jun 10, 2025)
+          [info] Normal completion of simulation on server: Local Machine. (06:54:42 PM  Jun 10, 2025)
+-- Message Window --
+Stopping Batch Run: 6:55:11 PM  Jun 10, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:10:47 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:18:33 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:22:30 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:31:19 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:36:37 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:38:48 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+The project 'Divisor_Coaxial_20250611_083846' has been edited and/or solved. Do you want to save the changes?
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 57509. 
+        [info] Project Divisor_Coaxial_20250611_083846 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 5 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 8 objects has been executed.
+        [info] Adding new material to the Project Library: Ar
+        [info] Material has been added in Desktop.
+        [info] Boundary Wave Port P1 has been created.
+        [info] Boundary Wave Port P2 has been created.
+        [info] Boundary Wave Port P3 has been created.
+        [info] Boundary Wave Port P4 has been created.
+        [info] Boundary Wave Port P5 has been created.
+        [info] Parsing C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250611_083846.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250611_083846.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.020877361297607422
+        [info] Linear count sweep Sweep1 has been correctly created
+        [info] Project Divisor_Coaxial_20250611_083846 Saved correctly
+        [info] The project 'Divisor_Coaxial_20250611_083846' has been edited and/or solved. Do you want to save the changes?
+      Divisor_Coaxial_20250611_083846 (C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/)
+        DivisorCoaxial (Modal Network)
+          [info] Normal completion of simulation on server: Local Machine. (08:39:51 AM  Jun 11, 2025)
+-- Message Window --
+Stopping Batch Run: 8:52:21 AM  Jun 11, 2025
+   Divisor_Coaxial_20250611_084307 (C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/)
+        DivisorCoaxial (Modal Network)
+          [info] Normal completion of simulation on server: Local Machine. (08:44:11 AM  Jun 11, 2025)
+-- Message Window --
+Stopping Batch Run: 8:52:19 AM  Jun 11, 2025
+time: 0m 0sec
+        [info] aedt file load time 0.031087636947631836
+        [info] Linear count sweep Sweep1 has been correctly created
+        [info] Project Divisor_Coaxial_20250611_084538 Saved correctly
+        [info] The project 'Divisor_Coaxial_20250611_084538' has been edited and/or solved. Do you want to save the changes?
+      Divisor_Coaxial_20250611_084538 (C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/)
+        DivisorCoaxial (Modal Network)
+          [info] Normal completion of simulation on server: Local Machine. (08:47:03 AM  Jun 11, 2025)
+-- Message Window --
+Stopping Batch Run: 8:52:17 AM  Jun 11, 2025
+l Machine. (08:48:40 AM  Jun 11, 2025)
+-- Message Window --
+Stopping Batch Run: 8:52:15 AM  Jun 11, 2025
+Projects/)
+        DivisorCoaxial (Modal Network)
+          [info] Normal completion of simulation on server: Local Machine. (08:51:23 AM  Jun 11, 2025)
+-- Message Window --
+Stopping Batch Run: 8:52:11 AM  Jun 11, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:00:22 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:05:50 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:07:54 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:08:39 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:22:18 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:50:39 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:12:01 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+The project 'Divisor_Coaxial_20250611_101159' has been edited and/or solved. Do you want to save the changes?
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 57057. 
+        [info] Project Divisor_Coaxial_20250611_101159 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 8 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 11 objects has been executed.
+        [info] Adding new material to the Project Library: Ar
+        [info] Material has been added in Desktop.
+        [info] Boundary Wave Port P1 has been created.
+        [info] Boundary Wave Port P2 has been created.
+        [info] Boundary Wave Port P3 has been created.
+        [info] Boundary Wave Port P4 has been created.
+        [info] Boundary Wave Port P5 has been created.
+        [info] Boundary Wave Port P6 has been created.
+        [info] Boundary Wave Port P7 has been created.
+        [info] Boundary Wave Port P8 has been created.
+        [info] Parsing C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250611_101159.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250611_101159.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.015568733215332031
+        [info] Linear count sweep Sweep1 has been correctly created
+        [info] Project Divisor_Coaxial_20250611_101159 Saved correctly
+        [info] The project 'Divisor_Coaxial_20250611_101159' has been edited and/or solved. Do you want to save the changes?
+      Divisor_Coaxial_20250611_101159 (C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/)
+        DivisorCoaxial (Modal Network)
+          [info] Normal completion of simulation on server: Local Machine. (10:13:01 AM  Jun 11, 2025)
+-- Message Window --
+Stopping Batch Run: 10:13:23 AM  Jun 11, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:15:21 AM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:38:25 PM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 51471. 
+        [info] Project Divisor_Coaxial_20250611_143823 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 5 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 8 objects has been executed.
+        [info] Adding new material to the Project Library: Ar
+        [info] Material has been added in Desktop.
+        [info] Boundary Wave Port P1 has been created.
+        [info] Boundary Wave Port P2 has been created.
+        [info] Boundary Wave Port P3 has been created.
+        [info] Boundary Wave Port P4 has been created.
+        [info] Boundary Wave Port P5 has been created.
+        [info] Parsing C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250611_143823.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250611_143823.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.04312419891357422
+        [info] Linear count sweep Sweep1 has been correctly created
+        [info] Project Divisor_Coaxial_20250611_143823 Saved correctly
+-- Message Window --
+Stopping Batch Run: 2:41:37 PM  Jun 11, 2025
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:03:40 PM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+ 
+Ansys Electronics Desktop Version 2024.1.0, Build: 2023-11-27 22:16:18
+Location: C:\Program Files\AnsysEM\v241\v241\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 4:07:55 PM  Jun 11, 2025
+Running as user : RF01\geral
+Temp directory: C:\Users\geral\AppData\Local\Temp
+Project directory: D:\Simulations
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 49402. 
+        [info] Project Divisor_Coaxial_20250611_160753 has been created.
+        [info] Added design 'DivisorCoaxial' of type HFSS.
+        [info] Aedt Objects correctly read
+        [info] Modeler class has been initialized! Elapsed time: 0m 0sec
+        [info] Materials class has been initialized! Elapsed time: 0m 0sec
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 5 objects has been executed.
+        [info] Parsing design objects. This operation can take time
+        [info] Refreshing bodies from Object Info
+        [info] Bodies Info Refreshed Elapsed time: 0m 0sec
+        [info] 3D Modeler objects parsed. Elapsed time: 0m 0sec
+        [info] Union of 8 objects has been executed.
+        [info] Adding new material to the Project Library: Ar
+        [info] Material has been added in Desktop.
+        [info] Boundary Wave Port P1 has been created.
+        [info] Boundary Wave Port P2 has been created.
+        [info] Boundary Wave Port P3 has been created.
+        [info] Boundary Wave Port P4 has been created.
+        [info] Boundary Wave Port P5 has been created.
+        [info] Parsing C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250611_160753.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250611_160753.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.015622615814208984
+        [info] Linear count sweep Sweep1 has been correctly created
+        [info] Project Divisor_Coaxial_20250611_160753 Saved correctly
+-- Message Window --
+Stopping Batch Run: 4:12:18 PM  Jun 11, 2025
+al/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250611_161019.aedt.
+        [info] File C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/Divisor_Coaxial_20250611_161019.aedt correctly loaded. Elapsed time: 0m 0sec
+        [info] aedt file load time 0.0207672119140625
+        [info] Linear count sweep Sweep1 has been correctly created
+        [info] Project Divisor_Coaxial_20250611_161019 Saved correctly
+        [info] The project 'Divisor_Coaxial_20250611_161019' has been edited and/or solved. Do you want to save the changes?
+      Divisor_Coaxial_20250611_161019 (C:/Users/geral/OneDrive/Documentos/MicroPython/DIVISOR/pythonProject3/HFSS_Projects/)
+        DivisorCoaxial (Modal Network)
+          [info] Normal completion of simulation on server: Local Machine. (04:11:28 PM  Jun 11, 2025)
+-- Message Window --
+Stopping Batch Run: 4:12:07 PM  Jun 11, 2025
